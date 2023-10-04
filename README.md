@@ -7,11 +7,9 @@ MATLAB Codes  to complement my book
          A Comprehensive Approach
          CRC Press / Chapman & Hall (2020) 
 
-The most recent version of these codes are collected in the 
-file CodesMODE.zip that is available at
+The most recent version of these codes are collected in the file CodesMODE.zip that is available as support material at
 
-https://www.mathematik.uni-wuerzburg.de/scientificcomputing/team/borzi-alfio 
-
+https://static.routledge.com/9780815392613/CodesMODE.zip
 
 No claim of accuracy is made and no responsibility is taken for possible errors.  
 These files are distributed freely as didactical support to the content of the 
